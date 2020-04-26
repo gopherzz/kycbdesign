@@ -1,0 +1,13 @@
+#header-row {
+	padding: 50px;
+	text-align: center;
+}
+.sans-sherif-bold {
+	font-family: sans-serif;
+}
+.header-div {
+	background-image: url(img/1.jpg);
+	background-color: rgba(0,0,0,0.7);
+	background-size: cover;
+	background-blend-mode: darken;
+}
