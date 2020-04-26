@@ -12,3 +12,8 @@
 	background-blend-mode: darken;
 	min-height: 200%;
 }
+
+.borderr {
+	border-radius: 10px;
+	border: 1px solid black;
+}
