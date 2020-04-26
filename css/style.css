@@ -7,7 +7,7 @@
 }
 .header-div {
 	background-image: url(/img/1.jpg);
-	background-color: rgba(0,0,0,0.7);
+	background-color: rgba(0,0,0,0.8);
 	background-size: cover;
 	background-blend-mode: darken;
 }
